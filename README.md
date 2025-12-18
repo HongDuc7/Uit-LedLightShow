@@ -3,6 +3,7 @@
 A **sound-reactive RGB LED system** built on the **STM32F411E-DISCO** board, capable of driving a **WS2812B (NeoPixel) LED strip** with multiple lighting effects — including **real-time audio-responsive modes** using a **MAX9814 microphone module**.
 
 > 🎓 Course Project – *Microprocessor & Microcontroller (CE103)*
+> 
 > 📍 University of Information Technology – VNU-HCM
 
 ---
