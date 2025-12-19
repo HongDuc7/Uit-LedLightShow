@@ -4,7 +4,7 @@ A **sound-reactive RGB LED system** built on the **STM32F411E-DISCO** board, cap
 
 > 🎓 Course Project – *Microprocessor & Microcontroller (CE103)*
 > 
-> 📍 University of Information Technology – VNU-HCM
+> 📍 University of Information and Technology – VNU-HCM
 
 ---
 
