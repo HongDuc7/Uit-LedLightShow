@@ -12,9 +12,9 @@ A **sound-reactive RGB LED system** built on the **STM32F411E-DISCO** board, cap
 
 This project implements a **high-performance LED control system** using:
 
-* **PWM (800 kHz)** for WS2812B protocol timing
-* **DMA** for CPU-efficient data transfer
-* **ADC** to process real-time audio input
+* **PWM (800 kHz)** for WS2812B protocol timing.
+* **DMA** for CPU-efficient data transfer.
+* **ADC** to process real-time audio input.
 
 The system supports **7 different lighting modes**, including **sound-reactive visualizations** such as volume bars and glow effects synchronized with ambient audio.
 
